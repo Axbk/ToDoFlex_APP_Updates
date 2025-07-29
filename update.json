@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.0",
+  "latest_version": "2.0.0",
   "apk_url": "https://drive.google.com/uc?export=download&id=1ZVMtKzg2VqVS1e4ZlxIidTczM8WdsQul",
-  "changelog": "✅ Nuevas funciones añadidas\n🐞 Correcciones de errores importantes"
+  "changelog": "✅ Nuevas funciones añadidas\n - Login Disponible\n - Tiempo de Respuesta 2s\n - Nueva interfaz 'Crear Categoria'"
 }
