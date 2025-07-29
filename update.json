@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.0.0",
+  "latest_version": "2.0.1",
   "apk_url": "https://drive.google.com/uc?export=download&id=1QzmKHmunPuzpHLouux4rcj5kOwXp-DsD",
   "changelog": "✅ Nuevas funciones añadidas\n - 🔐Login Disponible\n - 🪄Animacion de entrada\n - ⌛Tiempo de Respuesta 2s\n - 📱Nueva interfaz 'Crear Categoria'\n - 🌑Modo oscuro en todas las pantallas!\n - 🙂Nuevo diseño 'Mis tareas'\n 💡Nuevo\n - Guardado de base de datos\n🛑Errores Corregidos\n - Categoria mostrada en 'Mis Tareas'"
 }
